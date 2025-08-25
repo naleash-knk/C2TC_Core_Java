@@ -12,9 +12,9 @@ public class OperatorsDemo {
 		System.out.println("c value after the operations: " + c);
 
 		int d = c++ + a + b--;
-System.out.println("d value after the operations: " + d);
+		System.out.println("Demo value after the operations: " + d);
 
-		System.out.println("a , b,c,d values after the operations: " + a + " " + b + " " + c + " " + d);
+		System.out.println("a , b,c,Demo values after the operations: " + a + " " + b + " " + c + " " + d);
 				
 		//Ternary operator demonstration
 		  x = (10 == x) ? 1 : 0;	
